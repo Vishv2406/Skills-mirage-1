@@ -1,0 +1,269 @@
+[
+  {
+    "source": "swayam",
+    "title": "Python Programming",
+    "institution": "NPTEL",
+    "url": "https://swayam.gov.in/nd1_noc20_cs47/preview",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "python",
+      "programming",
+      "coding"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679152"
+  },
+  {
+    "source": "swayam",
+    "title": "Fundamentals of Artificial Intelligence",
+    "institution": "IGNOU",
+    "url": "https://swayam.gov.in/courses/ai-fundamentals",
+    "duration_weeks": 12,
+    "hours_per_week": 4,
+    "topics": [
+      "ai",
+      "machine learning",
+      "artificial intelligence"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679163"
+  },
+  {
+    "source": "swayam",
+    "title": "Data Analytics with Python",
+    "institution": "NPTEL",
+    "url": "https://swayam.gov.in/courses/data-analytics-python",
+    "duration_weeks": 8,
+    "hours_per_week": 6,
+    "topics": [
+      "data analytics",
+      "python",
+      "pandas",
+      "visualization"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679168"
+  },
+  {
+    "source": "swayam",
+    "title": "Entrepreneurship and New Venture Creation",
+    "institution": "IIM Bangalore",
+    "url": "https://swayam.gov.in/courses/entrepreneurship",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "entrepreneurship",
+      "startup",
+      "business"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679172"
+  },
+  {
+    "source": "swayam",
+    "title": "Goods and Services Tax (GST)",
+    "institution": "ICAI",
+    "url": "https://swayam.gov.in/courses/gst",
+    "duration_weeks": 4,
+    "hours_per_week": 4,
+    "topics": [
+      "gst",
+      "tax",
+      "accounting",
+      "finance",
+      "tally"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679176"
+  },
+  {
+    "source": "swayam",
+    "title": "Marketing Management",
+    "institution": "IIM Kozhikode",
+    "url": "https://swayam.gov.in/courses/marketing-management",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "marketing",
+      "sales",
+      "digital marketing",
+      "branding"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679180"
+  },
+  {
+    "source": "swayam",
+    "title": "Human Resource Management",
+    "institution": "IIM Lucknow",
+    "url": "https://swayam.gov.in/courses/hrm",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "hr",
+      "human resource",
+      "recruitment",
+      "talent management"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679194"
+  },
+  {
+    "source": "swayam",
+    "title": "Spoken English for Beginners",
+    "institution": "IGNOU",
+    "url": "https://swayam.gov.in/courses/spoken-english",
+    "duration_weeks": 8,
+    "hours_per_week": 3,
+    "topics": [
+      "english",
+      "communication",
+      "spoken english",
+      "soft skills"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679199"
+  },
+  {
+    "source": "swayam",
+    "title": "Digital Marketing and E-Commerce",
+    "institution": "NPTEL",
+    "url": "https://swayam.gov.in/courses/digital-marketing",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "digital marketing",
+      "ecommerce",
+      "seo",
+      "social media"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679203"
+  },
+  {
+    "source": "swayam",
+    "title": "Cyber Security and Privacy",
+    "institution": "IIT Madras",
+    "url": "https://swayam.gov.in/courses/cybersecurity",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "cybersecurity",
+      "privacy",
+      "network security"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679207"
+  },
+  {
+    "source": "swayam",
+    "title": "Customer Relationship Management",
+    "institution": "IGNOU",
+    "url": "https://swayam.gov.in/courses/crm",
+    "duration_weeks": 6,
+    "hours_per_week": 3,
+    "topics": [
+      "crm",
+      "customer service",
+      "sales",
+      "communication"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679212"
+  },
+  {
+    "source": "swayam",
+    "title": "Basics of Financial Literacy",
+    "institution": "NISM",
+    "url": "https://swayam.gov.in/courses/financial-literacy",
+    "duration_weeks": 4,
+    "hours_per_week": 3,
+    "topics": [
+      "finance",
+      "financial literacy",
+      "savings",
+      "investment"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679217"
+  },
+  {
+    "source": "swayam",
+    "title": "Logistics and Supply Chain Management",
+    "institution": "IIT Delhi",
+    "url": "https://swayam.gov.in/courses/supply-chain",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "logistics",
+      "supply chain",
+      "warehouse",
+      "operations"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679222"
+  },
+  {
+    "source": "swayam",
+    "title": "Technical Writing",
+    "institution": "IIT Bombay",
+    "url": "https://swayam.gov.in/courses/technical-writing",
+    "duration_weeks": 6,
+    "hours_per_week": 3,
+    "topics": [
+      "writing",
+      "communication",
+      "documentation",
+      "content"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679227"
+  },
+  {
+    "source": "swayam",
+    "title": "Internet of Things",
+    "institution": "IIT Kharagpur",
+    "url": "https://swayam.gov.in/nd1_noc19_cs47/preview",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "iot",
+      "programming",
+      "electronics",
+      "automation"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:33.679232"
+  }
+]

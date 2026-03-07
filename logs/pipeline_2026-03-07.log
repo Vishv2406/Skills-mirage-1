@@ -1,0 +1,317 @@
+2026-03-07 15:34:57.030 | INFO     | pipeline.run_pipeline:step_setup_db:54 - 📦 Step 0: Setting up database...
+2026-03-07 15:34:57.035 | SUCCESS  | pipeline.run_pipeline:step_setup_db:58 -   ✅ Database ready
+2026-03-07 15:34:57.035 | INFO     | pipeline.run_pipeline:step_scrape_naukri:66 - 🔍 Step 1: Scraping Naukri...
+2026-03-07 15:34:57.178 | ERROR    | pipeline.run_pipeline:step_scrape_naukri:87 -   ❌ Naukri step failed: scrape_naukri_apify() got an unexpected keyword argument 'max_results_per_city'
+2026-03-07 15:34:57.178 | INFO     | pipeline.run_pipeline:step_scrape_linkedin:93 - 🔍 Step 2: Scraping LinkedIn...
+2026-03-07 15:34:57.447 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Mumbai
+2026-03-07 15:34:58.975 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:34:58.976 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Mumbai
+2026-03-07 15:34:59.286 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:34:59.287 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Mumbai
+2026-03-07 15:34:59.599 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:34:59.599 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Mumbai
+2026-03-07 15:35:00.011 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:00.012 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Mumbai
+2026-03-07 15:35:00.609 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:00.610 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Mumbai
+2026-03-07 15:35:00.921 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:00.921 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Mumbai
+2026-03-07 15:35:01.231 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:01.232 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Delhi
+2026-03-07 15:35:01.539 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:01.540 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Delhi
+2026-03-07 15:35:01.859 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:01.860 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Delhi
+2026-03-07 15:35:02.188 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:02.189 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Delhi
+2026-03-07 15:35:02.479 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:02.479 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Delhi
+2026-03-07 15:35:02.763 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:02.763 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Delhi
+2026-03-07 15:35:03.077 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:03.077 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Delhi
+2026-03-07 15:35:03.396 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:03.397 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Bangalore
+2026-03-07 15:35:03.703 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:03.704 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Bangalore
+2026-03-07 15:35:04.006 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:04.006 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Bangalore
+2026-03-07 15:35:04.531 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:04.532 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Bangalore
+2026-03-07 15:35:04.826 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:04.827 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Bangalore
+2026-03-07 15:35:05.221 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:05.222 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Bangalore
+2026-03-07 15:35:05.550 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:05.550 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Bangalore
+2026-03-07 15:35:05.860 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:05.861 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Hyderabad
+2026-03-07 15:35:06.150 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:06.150 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Hyderabad
+2026-03-07 15:35:06.447 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:06.448 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Hyderabad
+2026-03-07 15:35:06.750 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:06.751 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Hyderabad
+2026-03-07 15:35:07.059 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:07.059 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Hyderabad
+2026-03-07 15:35:07.377 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:07.378 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Hyderabad
+2026-03-07 15:35:07.695 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:07.696 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Hyderabad
+2026-03-07 15:35:07.989 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:07.989 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Chennai
+2026-03-07 15:35:08.302 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:08.303 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Chennai
+2026-03-07 15:35:08.604 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:08.605 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Chennai
+2026-03-07 15:35:08.922 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:08.923 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Chennai
+2026-03-07 15:35:09.222 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:09.222 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Chennai
+2026-03-07 15:35:09.520 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:09.521 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Chennai
+2026-03-07 15:35:09.840 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:09.840 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Chennai
+2026-03-07 15:35:10.234 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:10.235 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Pune
+2026-03-07 15:35:10.653 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:10.654 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Pune
+2026-03-07 15:35:10.956 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:10.978 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Pune
+2026-03-07 15:35:11.263 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:11.263 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Pune
+2026-03-07 15:35:11.568 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:11.568 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Pune
+2026-03-07 15:35:11.885 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:11.886 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Pune
+2026-03-07 15:35:12.217 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:12.217 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Pune
+2026-03-07 15:35:12.502 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:12.503 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Kolkata
+2026-03-07 15:35:12.801 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:12.801 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Kolkata
+2026-03-07 15:35:13.124 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:13.125 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Kolkata
+2026-03-07 15:35:13.409 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:13.409 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Kolkata
+2026-03-07 15:35:13.720 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:13.721 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Kolkata
+2026-03-07 15:35:14.031 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:14.032 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Kolkata
+2026-03-07 15:35:14.346 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:14.347 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Kolkata
+2026-03-07 15:35:14.652 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:14.652 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Ahmedabad
+2026-03-07 15:35:15.057 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:15.064 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Ahmedabad
+2026-03-07 15:35:15.471 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:15.471 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Ahmedabad
+2026-03-07 15:35:15.878 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:15.879 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Ahmedabad
+2026-03-07 15:35:16.184 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:16.185 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Ahmedabad
+2026-03-07 15:35:16.478 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:16.478 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Ahmedabad
+2026-03-07 15:35:16.798 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:16.799 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Ahmedabad
+2026-03-07 15:35:17.105 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:17.106 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Jaipur
+2026-03-07 15:35:17.407 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:17.408 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Jaipur
+2026-03-07 15:35:17.714 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:17.715 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Jaipur
+2026-03-07 15:35:18.024 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:18.024 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Jaipur
+2026-03-07 15:35:18.336 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:18.336 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Jaipur
+2026-03-07 15:35:18.635 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:18.636 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Jaipur
+2026-03-07 15:35:18.947 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:18.948 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Jaipur
+2026-03-07 15:35:19.246 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:19.247 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Indore
+2026-03-07 15:35:19.572 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:19.573 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Indore
+2026-03-07 15:35:19.892 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:19.893 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Indore
+2026-03-07 15:35:20.289 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:20.290 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Indore
+2026-03-07 15:35:20.691 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:20.691 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Indore
+2026-03-07 15:35:21.013 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:21.013 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Indore
+2026-03-07 15:35:21.311 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:21.311 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Indore
+2026-03-07 15:35:21.616 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:35:21.617 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:110 - 
+📊 Total LinkedIn jobs: 0
+2026-03-07 15:35:21.618 | WARNING  | pipeline.run_pipeline:step_scrape_linkedin:108 -   ⚠️  No LinkedIn jobs (check Apify token)
+2026-03-07 15:35:21.618 | INFO     | pipeline.run_pipeline:step_compute_vulnerability_index:155 - 🧮 Step 4: Computing Vulnerability Index...
+2026-03-07 15:35:48.374 | SUCCESS  | pipeline.run_pipeline:step_compute_vulnerability_index:287 -   ✅ Vulnerability Index: 71 category×city scores computed
+2026-03-07 15:35:48.374 | INFO     | pipeline.run_pipeline:step_compute_skill_snapshots:299 - 📊 Step 5: Computing skill snapshots...
+2026-03-07 15:35:49.739 | SUCCESS  | pipeline.run_pipeline:step_compute_skill_snapshots:350 -   ✅ Skill snapshots: 723 skill×city records saved
+2026-03-07 15:39:02.481 | INFO     | __main__:step_setup_db:54 - 📦 Step 0: Setting up database...
+2026-03-07 15:39:02.924 | SUCCESS  | __main__:step_setup_db:58 -   ✅ Database ready
+2026-03-07 15:39:02.925 | INFO     | __main__:step_scrape_naukri:66 - 🔍 Step 1: Scraping Naukri...
+2026-03-07 15:39:03.058 | ERROR    | __main__:step_scrape_naukri:87 -   ❌ Naukri step failed: scrape_naukri_apify() got an unexpected keyword argument 'max_results_per_city'
+2026-03-07 15:39:03.059 | INFO     | __main__:step_scrape_linkedin:93 - 🔍 Step 2: Scraping LinkedIn...
+2026-03-07 15:39:03.193 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Mumbai
+2026-03-07 15:39:04.856 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:04.857 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Mumbai
+2026-03-07 15:39:05.259 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:05.259 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Mumbai
+2026-03-07 15:39:05.692 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:05.692 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Mumbai
+2026-03-07 15:39:06.005 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:06.005 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Mumbai
+2026-03-07 15:39:06.414 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:06.415 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Mumbai
+2026-03-07 15:39:06.914 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:06.914 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Mumbai
+2026-03-07 15:39:07.210 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Mumbai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:07.211 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Delhi
+2026-03-07 15:39:07.522 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:07.522 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Delhi
+2026-03-07 15:39:07.824 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:07.825 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Delhi
+2026-03-07 15:39:08.134 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:08.135 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Delhi
+2026-03-07 15:39:08.440 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:08.440 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Delhi
+2026-03-07 15:39:09.050 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:09.051 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Delhi
+2026-03-07 15:39:09.410 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:09.411 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Delhi
+2026-03-07 15:39:09.783 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Delhi: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:09.784 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Bangalore
+2026-03-07 15:39:10.194 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:10.195 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Bangalore
+2026-03-07 15:39:10.581 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:10.582 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Bangalore
+2026-03-07 15:39:11.203 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:11.203 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Bangalore
+2026-03-07 15:39:11.502 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:11.503 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Bangalore
+2026-03-07 15:39:11.810 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:11.811 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Bangalore
+2026-03-07 15:39:12.131 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:12.132 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Bangalore
+2026-03-07 15:39:12.580 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Bangalore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:12.580 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Hyderabad
+2026-03-07 15:39:12.929 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:12.929 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Hyderabad
+2026-03-07 15:39:13.339 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:13.339 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Hyderabad
+2026-03-07 15:39:13.803 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:13.803 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Hyderabad
+2026-03-07 15:39:14.193 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:14.194 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Hyderabad
+2026-03-07 15:39:14.489 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:14.489 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Hyderabad
+2026-03-07 15:39:15.088 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:15.088 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Hyderabad
+2026-03-07 15:39:15.411 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Hyderabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:15.411 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Chennai
+2026-03-07 15:39:15.796 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:15.797 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Chennai
+2026-03-07 15:39:16.118 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:16.119 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Chennai
+2026-03-07 15:39:16.439 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:16.440 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Chennai
+2026-03-07 15:39:16.772 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:16.772 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Chennai
+2026-03-07 15:39:17.147 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:17.148 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Chennai
+2026-03-07 15:39:17.450 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:17.450 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Chennai
+2026-03-07 15:39:17.762 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Chennai: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:17.763 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Pune
+2026-03-07 15:39:18.059 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:18.060 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Pune
+2026-03-07 15:39:18.357 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:18.358 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Pune
+2026-03-07 15:39:18.670 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:18.671 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Pune
+2026-03-07 15:39:18.980 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:18.980 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Pune
+2026-03-07 15:39:19.294 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:19.295 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Pune
+2026-03-07 15:39:19.682 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:19.683 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Pune
+2026-03-07 15:39:20.110 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Pune: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:20.111 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Kolkata
+2026-03-07 15:39:20.539 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:20.540 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Kolkata
+2026-03-07 15:39:20.858 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:20.859 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Kolkata
+2026-03-07 15:39:21.166 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:21.167 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Kolkata
+2026-03-07 15:39:21.465 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:21.466 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Kolkata
+2026-03-07 15:39:21.782 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:21.805 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Kolkata
+2026-03-07 15:39:22.272 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:22.273 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Kolkata
+2026-03-07 15:39:22.573 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Kolkata: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:22.574 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Ahmedabad
+2026-03-07 15:39:23.291 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:23.292 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Ahmedabad
+2026-03-07 15:39:23.583 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:23.584 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Ahmedabad
+2026-03-07 15:39:23.914 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:23.915 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Ahmedabad
+2026-03-07 15:39:24.208 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:24.209 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Ahmedabad
+2026-03-07 15:39:24.541 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:24.541 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Ahmedabad
+2026-03-07 15:39:25.653 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:25.654 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Ahmedabad
+2026-03-07 15:39:25.948 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Ahmedabad: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:25.949 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Jaipur
+2026-03-07 15:39:26.256 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:26.257 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Jaipur
+2026-03-07 15:39:26.567 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:26.568 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Jaipur
+2026-03-07 15:39:26.852 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:26.853 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Jaipur
+2026-03-07 15:39:27.426 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:27.427 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Jaipur
+2026-03-07 15:39:27.784 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:27.785 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Jaipur
+2026-03-07 15:39:28.086 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:28.087 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Jaipur
+2026-03-07 15:39:28.407 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Jaipur: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:28.408 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'BPO' in Indore
+2026-03-07 15:39:28.699 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ BPO in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:28.700 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'customer support' in Indore
+2026-03-07 15:39:29.235 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ customer support in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:29.235 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'data analyst' in Indore
+2026-03-07 15:39:29.529 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ data analyst in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:29.530 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'software developer' in Indore
+2026-03-07 15:39:29.852 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ software developer in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:29.852 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'digital marketing' in Indore
+2026-03-07 15:39:30.249 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ digital marketing in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:30.249 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'content writer' in Indore
+2026-03-07 15:39:30.568 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ content writer in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:30.569 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:86 - 🔍 LinkedIn: 'HR executive' in Indore
+2026-03-07 15:39:30.864 | ERROR    | scrapers.linkedin_scraper:scrape_linkedin_apify:108 -   ❌ HR executive in Indore: You must rent a paid Actor in order to run it after its free trial has expired. To rent this Actor, go to https://console.apify.com/actors/BHzefUZlZRKWxkTck
+2026-03-07 15:39:30.864 | INFO     | scrapers.linkedin_scraper:scrape_linkedin_apify:110 - 
+📊 Total LinkedIn jobs: 0
+2026-03-07 15:39:30.865 | WARNING  | __main__:step_scrape_linkedin:108 -   ⚠️  No LinkedIn jobs (check Apify token)
+2026-03-07 15:39:30.865 | INFO     | __main__:step_scrape_courses:118 - 📚 Step 3: Scraping courses...
+2026-03-07 15:39:30.889 | INFO     | scrapers.courses_scraper:scrape_nptel_courses:46 - 📚 Scraping NPTEL courses...
+2026-03-07 15:39:31.006 | WARNING  | scrapers.courses_scraper:scrape_nptel_courses:59 -   NPTEL API failed: HTTPSConnectionPool(host='api.nptel.ac.in', port=443): Max retries exceeded with url: /v2/courses/search/?query=&page=1&size=100 (Caused by NameResolutionError("HTTPSConnection(host='api.nptel.ac.in', port=443): Failed to resolve 'api.nptel.ac.in' ([Errno 11001] getaddrinfo failed)"))
+2026-03-07 15:39:31.006 | WARNING  | scrapers.courses_scraper:scrape_nptel_courses:61 -   Using curated NPTEL course list...
+2026-03-07 15:39:31.007 | SUCCESS  | scrapers.courses_scraper:scrape_nptel_courses:63 -   ✅ NPTEL curated: 20 courses loaded
+2026-03-07 15:39:31.007 | INFO     | scrapers.courses_scraper:scrape_swayam_courses:163 - 📚 Loading SWAYAM courses...
+2026-03-07 15:39:33.678 | WARNING  | scrapers.courses_scraper:scrape_swayam_courses:176 -   Using curated SWAYAM list...
+2026-03-07 15:39:33.679 | SUCCESS  | scrapers.courses_scraper:scrape_swayam_courses:178 -   ✅ SWAYAM curated: 15 courses loaded
+2026-03-07 15:39:33.688 | SUCCESS  | scrapers.courses_scraper:save_courses_to_json:289 - 💾 Saved 20 nptel courses to data/raw/nptel_courses.json
+2026-03-07 15:39:33.715 | SUCCESS  | scrapers.courses_scraper:save_courses_to_db:304 - ✅ DB: 20 courses saved
+2026-03-07 15:39:33.719 | SUCCESS  | scrapers.courses_scraper:save_courses_to_json:289 - 💾 Saved 15 swayam courses to data/raw/swayam_courses.json
+2026-03-07 15:39:33.735 | SUCCESS  | scrapers.courses_scraper:save_courses_to_db:304 - ✅ DB: 15 courses saved
+2026-03-07 15:39:33.735 | SUCCESS  | __main__:step_scrape_courses:138 -   ✅ Courses: 20 NPTEL + 15 SWAYAM = 35 total
+2026-03-07 15:39:33.736 | INFO     | __main__:step_compute_vulnerability_index:155 - 🧮 Step 4: Computing Vulnerability Index...
+2026-03-07 15:40:03.616 | SUCCESS  | __main__:step_compute_vulnerability_index:287 -   ✅ Vulnerability Index: 71 category×city scores computed
+2026-03-07 15:40:03.617 | INFO     | __main__:step_compute_skill_snapshots:299 - 📊 Step 5: Computing skill snapshots...
+2026-03-07 15:40:04.689 | SUCCESS  | __main__:step_compute_skill_snapshots:350 -   ✅ Skill snapshots: 723 skill×city records saved

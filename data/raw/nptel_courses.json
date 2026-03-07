@@ -1,0 +1,353 @@
+[
+  {
+    "source": "nptel",
+    "title": "Python for Data Science",
+    "institution": "IIT Madras",
+    "url": "https://nptel.ac.in/courses/106106212",
+    "duration_weeks": 8,
+    "hours_per_week": 6,
+    "topics": [
+      "python",
+      "data analysis",
+      "pandas",
+      "numpy"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007307"
+  },
+  {
+    "source": "nptel",
+    "title": "Introduction to Machine Learning",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/106105152",
+    "duration_weeks": 8,
+    "hours_per_week": 6,
+    "topics": [
+      "machine learning",
+      "python",
+      "scikit-learn"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007312"
+  },
+  {
+    "source": "nptel",
+    "title": "Data Science for Engineers",
+    "institution": "IIT Madras",
+    "url": "https://nptel.ac.in/courses/106106202",
+    "duration_weeks": 12,
+    "hours_per_week": 5,
+    "topics": [
+      "data science",
+      "statistics",
+      "python",
+      "data analysis"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007315"
+  },
+  {
+    "source": "nptel",
+    "title": "Deep Learning",
+    "institution": "IIT Ropar",
+    "url": "https://nptel.ac.in/courses/106107239",
+    "duration_weeks": 12,
+    "hours_per_week": 6,
+    "topics": [
+      "deep learning",
+      "tensorflow",
+      "neural networks",
+      "ai"
+    ],
+    "level": "Advanced",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007317"
+  },
+  {
+    "source": "nptel",
+    "title": "Business Analytics and Data Mining",
+    "institution": "IIT Roorkee",
+    "url": "https://nptel.ac.in/courses/110107108",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "business analytics",
+      "data mining",
+      "statistics"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007319"
+  },
+  {
+    "source": "nptel",
+    "title": "Programming in Java",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/106105191",
+    "duration_weeks": 12,
+    "hours_per_week": 6,
+    "topics": [
+      "java",
+      "programming",
+      "object oriented"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007321"
+  },
+  {
+    "source": "nptel",
+    "title": "The Joy of Computing using Python",
+    "institution": "IIT Madras",
+    "url": "https://nptel.ac.in/courses/106106145",
+    "duration_weeks": 12,
+    "hours_per_week": 4,
+    "topics": [
+      "python",
+      "programming",
+      "coding"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007328"
+  },
+  {
+    "source": "nptel",
+    "title": "Database Management System",
+    "institution": "IIT Madras",
+    "url": "https://nptel.ac.in/courses/106106093",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "sql",
+      "database",
+      "mysql",
+      "rdbms"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007331"
+  },
+  {
+    "source": "nptel",
+    "title": "Cloud Computing",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/106105167",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "cloud computing",
+      "aws",
+      "azure",
+      "devops"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007333"
+  },
+  {
+    "source": "nptel",
+    "title": "Soft Skills",
+    "institution": "IIT Kanpur",
+    "url": "https://nptel.ac.in/courses/109104099",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "soft skills",
+      "communication",
+      "presentation"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007336"
+  },
+  {
+    "source": "nptel",
+    "title": "Business English Communication",
+    "institution": "IIT Bombay",
+    "url": "https://nptel.ac.in/courses/109101005",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "english",
+      "communication",
+      "business writing",
+      "soft skills"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007339"
+  },
+  {
+    "source": "nptel",
+    "title": "Financial Accounting",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/110105049",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "accounting",
+      "finance",
+      "tally",
+      "balance sheet"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007342"
+  },
+  {
+    "source": "nptel",
+    "title": "Digital Marketing",
+    "institution": "IIT Delhi",
+    "url": "https://nptel.ac.in/courses/110102028",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "digital marketing",
+      "seo",
+      "social media",
+      "google ads"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007345"
+  },
+  {
+    "source": "nptel",
+    "title": "Introduction to Artificial Intelligence",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/106105078",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "ai",
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007348"
+  },
+  {
+    "source": "nptel",
+    "title": "Natural Language Processing",
+    "institution": "IIT Bombay",
+    "url": "https://nptel.ac.in/courses/106101007",
+    "duration_weeks": 8,
+    "hours_per_week": 6,
+    "topics": [
+      "nlp",
+      "natural language processing",
+      "python",
+      "ai"
+    ],
+    "level": "Advanced",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007350"
+  },
+  {
+    "source": "nptel",
+    "title": "Project Management",
+    "institution": "IIT Roorkee",
+    "url": "https://nptel.ac.in/courses/110107081",
+    "duration_weeks": 8,
+    "hours_per_week": 4,
+    "topics": [
+      "project management",
+      "agile",
+      "scrum",
+      "planning"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007354"
+  },
+  {
+    "source": "nptel",
+    "title": "Introduction to Cybersecurity",
+    "institution": "IIT Kanpur",
+    "url": "https://nptel.ac.in/courses/106104106",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "cybersecurity",
+      "network security",
+      "ethical hacking"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007359"
+  },
+  {
+    "source": "nptel",
+    "title": "Programming in C++",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/106105151",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "c++",
+      "programming",
+      "data structures"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007363"
+  },
+  {
+    "source": "nptel",
+    "title": "Financial Management",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/110105050",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "finance",
+      "investment",
+      "financial planning"
+    ],
+    "level": "Intermediate",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007367"
+  },
+  {
+    "source": "nptel",
+    "title": "Web Technologies",
+    "institution": "IIT Kharagpur",
+    "url": "https://nptel.ac.in/courses/106105084",
+    "duration_weeks": 8,
+    "hours_per_week": 5,
+    "topics": [
+      "html",
+      "css",
+      "javascript",
+      "web development"
+    ],
+    "level": "Beginner",
+    "is_free": true,
+    "certification": true,
+    "scraped_at": "2026-03-07 10:09:31.007370"
+  }
+]
